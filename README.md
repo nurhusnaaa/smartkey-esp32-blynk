@@ -58,6 +58,12 @@ Power on → Connect WiFi → Idle (read mode from Blynk)
 → Confirmed → back to Idle
 → Loop until powered off
 
+## Demo
+
+![Prototype](Prototype%20Picture.png)
+![Blynk App](Blynk%20App.png)
+![Flowchart](Flowchart%20Image.png)
+
 ## What I'd Improve
 
 - Move credentials (WiFi SSID/password, Blynk auth token) out of the source file and into a separate config file excluded from version control
