@@ -1,8 +1,8 @@
 # SmartKey — ESP32 Vibration Alert System with Blynk Control
 
-An ESP32-based device that reminds you not to forget your keys. It detects vibration/movement, asks you to confirm you've grabbed your keys via an OLED countdown, and triggers escalating alerts (buzzer + LED) if you don't respond — all controllable and monitorable remotely through the Blynk IoT app.
+An ESP32-based device that reminds you not to forget your keys. It detects vibration/movement, asks you to confirm you've grabbed your keys via an OLED countdown, and triggers escalating alerts (buzzer + LED) if you don't respond, all controllable and monitorable remotely through the Blynk IoT app.
 
-Built for **IIB20604 - Project Sem 3, Individual Project #2** (UniKL MIIT).
+Built for **IIB20604 - Project Semester 3, Individual Project**.
 
 ## The Problem
 
