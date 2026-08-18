@@ -6,7 +6,7 @@ Built for **IIB20604 - Project Sem 3, Individual Project #2** (UniKL MIIT).
 
 ## The Problem
 
-Rushing out the door and forgetting your keys is a small but frustrating everyday problem — it wastes time and can lead to being locked out or missing appointments. SmartKey solves this by sitting next to your keys and actively reminding you to grab them before you leave.
+Rushing out the door and forgetting your keys is a small but frustrating everyday problem so it wastes time and can lead to being locked out or missing appointments. SmartKey solves this by sitting next to your keys and actively reminding you to grab them before you leave.
 
 ## How It Works
 
